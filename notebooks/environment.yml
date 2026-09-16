@@ -1,0 +1,12 @@
+name: pbmc3k-scanpy
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - scanpy=1.12.4
+  - python-igraph
+  - leidenalg
+  - jupyterlab
+  - ipykernel
